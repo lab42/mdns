@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.2
 
 require (
-	github.com/miekg/dns v1.1.64
+	github.com/miekg/dns v1.1.65
 	golang.org/x/net v0.38.0
 )
 
