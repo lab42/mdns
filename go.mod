@@ -2,7 +2,7 @@ module github.com/hashicorp/mdns
 
 go 1.23.0
 
-toolchain go1.24.2
+toolchain go1.24.3
 
 require (
 	github.com/miekg/dns v1.1.65
